@@ -1,7 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  Hey! Nice to see you.</h1>
 
 <p> I'm [Ojea] front-end developer! 😎 </p>
-
+<p> My portfolio site [here](https://parallel-countess-9ab.notion.site/5f490392d6984c25bbe47b003c0ede8f) </p>
+<br><br>
 ### 🚀 My tech stack:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
