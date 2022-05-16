@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  Hey! Nice to see you.</h1>
 
-<p> I'm [Ojea] front-end developer! 😎 </p>
+<p> Hi I'm Ojae front-end developer! 😎 </p>
 
 🔗 My portfolio site Click [here](https://parallel-countess-9ab.notion.site/5f490392d6984c25bbe47b003c0ede8f)
 
