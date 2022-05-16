@@ -2,7 +2,7 @@
 <br>
 <p> I'm [Ojea] front-end developer! 😎 </p>
 <br>
-My portfolio site [click](https://parallel-countess-9ab.notion.site/5f490392d6984c25bbe47b003c0ede8f)
+My portfolio site Click [here](https://parallel-countess-9ab.notion.site/5f490392d6984c25bbe47b003c0ede8f)
 <br>
 ### 🚀 My tech stack:
 <br>
